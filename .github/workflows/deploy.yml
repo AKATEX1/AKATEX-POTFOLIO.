@@ -22,4 +22,4 @@ jobs:
         uses: azure/cli@v1
         with:
           inlineScript: |
-            az storage blob upload-batch --account-name group3staticweb12345 --source . --destination '$web' --overwrite
+            az storage blob upload-batch --account-name group3staticweb12345 --source . --destination '$web' --overwrite --auth-mode login

@@ -7,13 +7,10 @@
 Here are some key visuals from the project:
 
 ### ✅ GitHub Actions Workflow Success
-![GitHub Actions Success](screenshots/github-actions-success.png)
+![GitHub Actions Success](images/deployment-success.jpg)
 
 ### 🌐 Live Static Website on Azure
-![Live Website](screenshots/live-website.png)
-
-### 🧰 Azure Storage Static Site Configuration
-![Azure Storage Setup](screenshots/azure-storage-setup.png)
+![Deployed Site Screenshot](images/live-site.jpg)
 
 ---
 

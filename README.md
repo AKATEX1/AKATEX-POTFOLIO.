@@ -2,18 +2,6 @@
 
 ---
 
-## 📸 Screenshots
-
-Here are some key visuals from the project:
-
-### ✅ GitHub Actions Workflow Success
-![GitHub Actions Success](images/deployment-success.jpg)
-
-### 🌐 Live Static Website on Azure
-![Deployed Site Screenshot](images/live-site.jpg)
-
----
-
 ## 🏁 Project Summary
 
 This project demonstrates the deployment of a *static website* on *Microsoft Azure Storage* using *GitHub Actions* for CI/CD automation.  
